@@ -37,6 +37,7 @@ The averages are taken from various sensors located around the plant that record
 1. Importing the dataset
 
 *Imported the pandas library to read the dataset. The given dataset is multivariate defined over 4 different attributes.*
+*Imported tensorflow libraby for the neural network*
 
 2. Splitting the dataset into a training set and test set
 
